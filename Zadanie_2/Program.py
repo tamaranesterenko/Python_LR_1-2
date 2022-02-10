@@ -3,7 +3,7 @@
 
 import sys
 from datetime import datetime
-from work import get_worker, select_workers, display_workers
+from work import *
 
 
 if __name__ == '__main__':
